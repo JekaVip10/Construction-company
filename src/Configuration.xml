@@ -248,8 +248,11 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>Покупатели</Catalog>
+			<Catalog>Договоры</Catalog>
 			<Document>rdegrgrfg</Document>
 			<Enum>ВидНоменклатуры</Enum>
+			<Enum>ТипыПокупателей</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
