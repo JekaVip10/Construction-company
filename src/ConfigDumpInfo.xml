@@ -11,7 +11,8 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="e97bfce7-c989-4740-bf51-cde8bd8c66c2"/>
 		</Metadata>
 		<Metadata name="Catalog.Справочник1" id="4dbd2352-4b1e-4421-8fb6-11a2f27fff26" configVersion="aba162bb0948f041a0dcdb23eb682cf100000000"/>
-		<Metadata name="Configuration.Конфигурация" id="d3a37be4-e962-40cf-b048-5a171b75b97e" configVersion="e4cf24026c747c42a1fcea6891e61c6800000000"/>
+		<Metadata name="Catalog.Справочник2" id="1dc7d294-bbfe-4d88-afbe-ffb6beb079c5" configVersion="066eb4d90c482e4e8fa8745521e22cd800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="d3a37be4-e962-40cf-b048-5a171b75b97e" configVersion="31b81486ad7979459cb12e07dd67cd7f00000000"/>
 		<Metadata name="Enum.ВидНоменклатуры" id="b1ede6df-47fd-45a3-b91f-2be2302a9c16" configVersion="03940b667b73b34cb762a603050bc98000000000">
 			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Материалы" id="051a7f95-cd28-4ce8-ae70-b3687fca251a"/>
 			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Товары" id="3e330328-d027-425f-8786-7636a9438021"/>
