@@ -245,6 +245,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Номенклатура</Catalog>
+			<Enum>ВидНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

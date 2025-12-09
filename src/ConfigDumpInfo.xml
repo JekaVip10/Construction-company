@@ -1,4 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
-	<ConfigVersions/>
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="7a0c5a52-a382-41f1-8db1-f7beb4ae5545" configVersion="9133f79c0ac0c14bb1e478ed87033fa000000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="1dffd4d6-4529-4bd3-ad2e-cf3232ce7e4d"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Реквизит1" id="575c1cf5-a6bd-494c-b07c-4f238fa5b148"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="5f599747-1525-442b-a559-5e60fe523883"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.НДС" id="a617880c-c305-4072-9b5d-cc6b80ffe136"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Название" id="b452bfeb-c433-4a60-ab96-c82270f735a3"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Описание" id="e403077d-cdf8-4164-8ffa-4c420638627c"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="e97bfce7-c989-4740-bf51-cde8bd8c66c2"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="d3a37be4-e962-40cf-b048-5a171b75b97e" configVersion="55455f9077a6f142b857025147f4c74a00000000"/>
+		<Metadata name="Enum.ВидНоменклатуры" id="b1ede6df-47fd-45a3-b91f-2be2302a9c16" configVersion="03940b667b73b34cb762a603050bc98000000000">
+			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Материалы" id="051a7f95-cd28-4ce8-ae70-b3687fca251a"/>
+			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Товары" id="3e330328-d027-425f-8786-7636a9438021"/>
+			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Комплекты" id="4602566a-4c5d-440a-b9c6-35da7c21f21c"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="d07ea9e8-db39-41b1-ae62-bcda60dbbd3f" configVersion="5b981484fbd94043aa01081ad5999a6300000000"/>
+	</ConfigVersions>
 </ConfigDumpInfo>
