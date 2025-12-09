@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="Catalog.ЕдиницыИзмерения" id="4dbd2352-4b1e-4421-8fb6-11a2f27fff26" configVersion="d23f782a7362484291ca4e41b012c8fe00000000">
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="4dbd2352-4b1e-4421-8fb6-11a2f27fff26" configVersion="6c2084a1f60df94cafbe1000e961874400000000">
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.НаименованиеСклада" id="177c55d5-6ff3-4c65-8850-8ed1e3f4e6b6"/>
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.КраткоеНаименование" id="296e2eae-d722-4c8c-99c0-41614dd2a379"/>
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.КодОКЕИ" id="3c02fc7a-cd37-44e6-b8f0-4eedae1836fc"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура" id="7a0c5a52-a382-41f1-8db1-f7beb4ae5545" configVersion="6e8893bc8461484fbd866b79467ea4f400000000">
+		<Metadata name="Catalog.Номенклатура" id="7a0c5a52-a382-41f1-8db1-f7beb4ae5545" configVersion="1faa603e80aa974194bc077db5ca5a8200000000">
 			<Metadata name="Catalog.Номенклатура.TabularSection.ИсторияЦен.Attribute.ДатаУстановки" id="18c5d495-daf3-488f-97dc-2a527317c447"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="1dffd4d6-4529-4bd3-ad2e-cf3232ce7e4d"/>
 			<Metadata name="Catalog.Номенклатура.TabularSection.ИсторияЦен.Attribute.ЗакупочнаяЦена" id="304000c0-1a75-434f-8357-a48ea2b372f6"/>
@@ -21,20 +21,21 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.Описание" id="e403077d-cdf8-4164-8ffa-4c420638627c"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="e97bfce7-c989-4740-bf51-cde8bd8c66c2"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="03b2ea4a-30fa-4be3-934f-f36f1a101837" configVersion="901b50e0d902e7418e599771cd3b39d500000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="03b2ea4a-30fa-4be3-934f-f36f1a101837.0" configVersion="1f7b3d9c9f36354ab49642566d0878d000000000"/>
-		<Metadata name="Catalog.Склады" id="1dc7d294-bbfe-4d88-afbe-ffb6beb079c5" configVersion="01519dedee36e845a82e645d0cf4a69800000000">
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="03b2ea4a-30fa-4be3-934f-f36f1a101837" configVersion="223eeb07091aca4797c9af9df321e65600000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="03b2ea4a-30fa-4be3-934f-f36f1a101837.0" configVersion="166e7dc02f8ade4ea3e5cda015d4deb600000000"/>
+		<Metadata name="Catalog.Склады" id="1dc7d294-bbfe-4d88-afbe-ffb6beb079c5" configVersion="308dc6d982eaa041aa0d94a70501361600000000">
 			<Metadata name="Catalog.Склады.Attribute.Адрес" id="3be81425-b1d2-4cc1-8fac-bff02add4495"/>
 			<Metadata name="Catalog.Склады.Attribute.НаименованиеЕдиницы" id="bd7feed2-0f40-4cea-bc91-ef7686b5230a"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="d3a37be4-e962-40cf-b048-5a171b75b97e" configVersion="31b81486ad7979459cb12e07dd67cd7f00000000"/>
-		<Metadata name="Enum.ВидНоменклатуры" id="b1ede6df-47fd-45a3-b91f-2be2302a9c16" configVersion="d59bb1d663b5ed42adbc0d4fc762065600000000">
+		<Metadata name="Configuration.Конфигурация" id="d3a37be4-e962-40cf-b048-5a171b75b97e" configVersion="460c4c3ae44b684da47b66a18205110900000000"/>
+		<Metadata name="Document.rdegrgrfg" id="8e0724cd-5cd8-4596-86e8-65cdda7416ab" configVersion="41e374dd9eee0a418245d1de97790cb200000000"/>
+		<Metadata name="Enum.ВидНоменклатуры" id="b1ede6df-47fd-45a3-b91f-2be2302a9c16" configVersion="481400b665d84448a1fad9b540cd294100000000">
 			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Материалы" id="051a7f95-cd28-4ce8-ae70-b3687fca251a"/>
 			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Услуги" id="2b97f958-48d3-4fc5-84c8-dbdc93f32663"/>
 			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Товары" id="3e330328-d027-425f-8786-7636a9438021"/>
 			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Комплекты" id="4602566a-4c5d-440a-b9c6-35da7c21f21c"/>
 			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Работы" id="b668d429-c5ab-48cd-a639-671308c39d20"/>
 		</Metadata>
-		<Metadata name="Language.Русский" id="d07ea9e8-db39-41b1-ae62-bcda60dbbd3f" configVersion="5b981484fbd94043aa01081ad5999a6300000000"/>
+		<Metadata name="Language.Русский" id="d07ea9e8-db39-41b1-ae62-bcda60dbbd3f" configVersion="811673ff89ea6a41bd671e285b48e0f800000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

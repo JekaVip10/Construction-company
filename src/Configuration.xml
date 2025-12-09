@@ -248,6 +248,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Catalog>Склады</Catalog>
+			<Document>rdegrgrfg</Document>
 			<Enum>ВидНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
