@@ -246,8 +246,8 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>Номенклатура</Catalog>
-			<Catalog>Справочник1</Catalog>
-			<Catalog>Справочник2</Catalog>
+			<Catalog>ЕдиницыИзмерения</Catalog>
+			<Catalog>Склады</Catalog>
 			<Enum>ВидНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
