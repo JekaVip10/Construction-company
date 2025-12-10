@@ -257,6 +257,7 @@
 			<Document>Документ4</Document>
 			<Enum>ВидНоменклатуры</Enum>
 			<Enum>ТипыПокупателей</Enum>
+			<DataProcessor>ВыгрузкаXML</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
