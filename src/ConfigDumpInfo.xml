@@ -48,8 +48,8 @@
 		</Metadata>
 		<Metadata name="Configuration.Конфигурация" id="d3a37be4-e962-40cf-b048-5a171b75b97e" configVersion="fec80b1f582369429a97f8a29ab89c2d00000000"/>
 		<Metadata name="DataProcessor.ВыгрузкаXML" id="db7b561e-ee33-419f-a4f9-b91c5248866e" configVersion="08a82fe11885424b95bf888dcb5c7a2c00000000"/>
-		<Metadata name="DataProcessor.ВыгрузкаXML.Form.Форма" id="5748af62-bb69-4fad-904f-fb4e6a4947cf" configVersion="910fbbec32040c46a5b0fbf2962dc91b00000000"/>
-		<Metadata name="DataProcessor.ВыгрузкаXML.Form.Форма.Form" id="5748af62-bb69-4fad-904f-fb4e6a4947cf.0" configVersion="ab4d447b51fce24891d9286cfe62279d00000000"/>
+		<Metadata name="DataProcessor.ВыгрузкаXML.Form.Форма" id="5748af62-bb69-4fad-904f-fb4e6a4947cf" configVersion="11fa729372126d4abb1997917ddfe12d00000000"/>
+		<Metadata name="DataProcessor.ВыгрузкаXML.Form.Форма.Form" id="5748af62-bb69-4fad-904f-fb4e6a4947cf.0" configVersion="37c75576e31149438552ed56885772ad00000000"/>
 		<Metadata name="Document.rdegrgrfg" id="8e0724cd-5cd8-4596-86e8-65cdda7416ab" configVersion="24a2e94dc10aaa4d8ea585356dfbcf3f00000000"/>
 		<Metadata name="Document.Документ1" id="376784af-2aaf-4a2b-bb8f-8dae1fa128c4" configVersion="6e338dc310d4ec47b39e71ffd75bee8d00000000"/>
 		<Metadata name="Document.Документ2" id="24bd6b24-81cf-4bc0-8688-5560f88e0a91" configVersion="e1d80a54d317e1438769317eff2e7bc200000000"/>
