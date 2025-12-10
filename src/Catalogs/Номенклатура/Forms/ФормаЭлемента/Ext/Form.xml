@@ -26,7 +26,7 @@
 			<ExtendedTooltip name="РодительРасширеннаяПодсказка" id="9"/>
 		</InputField>
 		<InputField name="Название" id="10">
-			<DataPath>Объект.Название</DataPath>
+			<DataPath>1/0:b452bfeb-c433-4a60-ab96-c82270f735a3</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="НазваниеКонтекстноеМеню" id="11"/>
@@ -54,7 +54,7 @@
 			<ExtendedTooltip name="НДСРасширеннаяПодсказка" id="21"/>
 		</InputField>
 		<InputField name="Реквизит1" id="22">
-			<DataPath>Объект.Реквизит1</DataPath>
+			<DataPath>1/0:575c1cf5-a6bd-494c-b07c-4f238fa5b148</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="Реквизит1КонтекстноеМеню" id="23"/>
