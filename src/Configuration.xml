@@ -250,11 +250,6 @@
 			<Catalog>Склады</Catalog>
 			<Catalog>Покупатели</Catalog>
 			<Catalog>Договоры</Catalog>
-			<Document>rdegrgrfg</Document>
-			<Document>Документ1</Document>
-			<Document>Документ2</Document>
-			<Document>Документ3</Document>
-			<Document>Документ4</Document>
 			<Enum>ВидНоменклатуры</Enum>
 			<Enum>ТипыПокупателей</Enum>
 			<DataProcessor>ВыгрузкаXML</DataProcessor>
