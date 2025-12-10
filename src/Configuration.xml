@@ -252,6 +252,8 @@
 			<Catalog>Договоры</Catalog>
 			<Document>rdegrgrfg</Document>
 			<Document>Документ1</Document>
+			<Document>Документ2</Document>
+			<Document>Документ3</Document>
 			<Enum>ВидНоменклатуры</Enum>
 			<Enum>ТипыПокупателей</Enum>
 		</ChildObjects>

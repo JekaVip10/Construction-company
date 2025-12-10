@@ -46,9 +46,11 @@
 			<Metadata name="Catalog.Склады.Attribute.Адрес" id="3be81425-b1d2-4cc1-8fac-bff02add4495"/>
 			<Metadata name="Catalog.Склады.Attribute.НаименованиеЕдиницы" id="bd7feed2-0f40-4cea-bc91-ef7686b5230a"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="d3a37be4-e962-40cf-b048-5a171b75b97e" configVersion="823d8d7fa1d96244b4231480395ff9ae00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="d3a37be4-e962-40cf-b048-5a171b75b97e" configVersion="7c030d574145694c80458506762df7b800000000"/>
 		<Metadata name="Document.rdegrgrfg" id="8e0724cd-5cd8-4596-86e8-65cdda7416ab" configVersion="af88ae26ef91c8448f55679855503f5e00000000"/>
 		<Metadata name="Document.Документ1" id="376784af-2aaf-4a2b-bb8f-8dae1fa128c4" configVersion="c9d964b84f91664ca6f954b7586d0d5000000000"/>
+		<Metadata name="Document.Документ2" id="24bd6b24-81cf-4bc0-8688-5560f88e0a91" configVersion="8865d3e62318c842aea0db3e980e8c9d00000000"/>
+		<Metadata name="Document.Документ3" id="0fe4b4e5-03c2-46f3-98b0-23b6d933e1d7" configVersion="4b5cc8f28982a849b4e0135c239162bc00000000"/>
 		<Metadata name="Enum.ВидНоменклатуры" id="b1ede6df-47fd-45a3-b91f-2be2302a9c16" configVersion="ac34cea242bac04b92742a467bdb032800000000">
 			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Материалы" id="051a7f95-cd28-4ce8-ae70-b3687fca251a"/>
 			<Metadata name="Enum.ВидНоменклатуры.EnumValue.Услуги" id="2b97f958-48d3-4fc5-84c8-dbdc93f32663"/>
